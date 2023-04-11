@@ -1,0 +1,1 @@
+# STRIKEARRAY2
