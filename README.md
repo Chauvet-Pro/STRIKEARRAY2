@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.3.0 - STRIKE Array 2](https://github.com/Chauvet-Pro/STRIKEARRAY2/tree/8610073ba92a026fe3bea09561632a4ee8dc33c1/firmware)
+- Updated RDM PIDs
+
 [V1.230817 - STRIKE Array 2](https://github.com/Chauvet-Pro/STRIKEARRAY2/blob/4dd3d8074f10b32b158c7f5166c5e9cc3368070d/firmware/V1.230817.zip)
 - Added new mode with independent Amber control
 
